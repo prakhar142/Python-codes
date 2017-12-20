@@ -1,0 +1,134 @@
+    var institute = {
+
+        "name ": "Walchand Institute of Technology ",
+        "type": "Engineering Institute",
+        "location ": "Solapur",
+
+        "principal ": " Mr. S.A. Halkude ",
+
+        "departement": [
+
+            {
+                "category": " Hostel Dept. ",
+                "rector": [{
+                        "name": " Dr Kashid ",
+                        "age ": 48,
+                        "experience": "20 years",
+                        "salaryMonthly": 60000
+                    },
+
+                    {
+                        "name": " Mr Malkani ",
+                        "age ": 56,
+                        "experience": "35 years",
+                        "salaryMonthly": 80000
+                    }
+
+                ],
+
+                "mess": [{
+                        "owner": " Mr. Mehta ",
+                        "foodtype ": "Jain",
+                        "rent": 45000,
+                        "workers": 15
+                    },
+
+                    {
+                        "owner": " Mr. Lakde ",
+                        "foodtype ": "Marathi",
+                        "rent ": 45000,
+                        "workers": 23
+
+                    }
+                ],
+                "careTaker ": "Mr. Tejas",
+
+                "guards ": [{
+                        "name ": "Mr kore",
+                        "salary": 6000
+                    },
+
+                    {
+                        "name ": "Mr Mali ",
+                        "salary": 5050
+                    }
+
+                ]
+
+
+            },
+
+
+            {
+                "category": "Fields",
+                "branch": [{
+                        "name": "Mech.",
+                        "hod": " Mr Mitragotri",
+                        "staff": 26,
+                        "type": "Regular"
+                    },
+
+
+                    {
+                        "name": "ENTC",
+                        "hod": " Mr SS Dhanore",
+                        "staff": 17,
+                        "type": "Shift"
+                    },
+
+
+                    {
+                        "name": "CSE",
+                        "hod": " Mr Argiddi",
+                        "staff": 20,
+                        "type": "Shift"
+                    },
+
+
+                    {
+                        "name": "IT",
+                        "hod": " Mr Lobo",
+                        "staff": 15,
+                        "type": "Regular"
+                    },
+
+
+                    {
+                        "name": "Civil",
+                        "hod": " Mr Kashid",
+                        "staff": 19,
+                        "type": "Regular"
+                    }
+                ]
+
+
+            },
+
+            {
+                "category ": " Office Dept. ",
+                "accountant ": {
+                    "name ": " Mr Pandit ",
+                    "salary": 40000,
+                    "age": 40
+                },
+                "universityCoordinator ": {
+                    "name ": " Mr hosale",
+                    "salary": 20000,
+                    "age": 38
+                },
+                "admissionnCoordinator ": {
+                    "name ": "Mr Doshi",
+                    "salary": 20000,
+                    "age": 38
+                },
+                "placementHead ": {
+                    "name": " Mr Lakde",
+                    "salary": 30000,
+                    "age": 43
+                }
+
+            }
+
+        ]
+
+    }
